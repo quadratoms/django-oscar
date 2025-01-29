@@ -29,7 +29,6 @@ __pycache__
 .pydevproject
 .settings
 .idea
-.vscode
 
 # Docs
 /docs/build/*
@@ -60,3 +59,4 @@ settings_local.py
 
 # test stuff
 /tests/whoosh_index/
+.gitignore
